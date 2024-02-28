@@ -74,3 +74,18 @@ Emission Intensity Schedule Output
 EV Charging Effective Schedule
 EV Charging Original Schedule
 EV Charging Original Load
+Cooling Coil Total Cooling Rate
+Cooling Coil Total Cooling Energy
+Heating Coil Heating Rate
+Heating Coil Heating Energy
+Baseboard Total Heating Rate
+Baseboard Total Heating Energy
+Water Heater NaturalGas Rate
+Water Heater Electricity Rate
+Water Heater Total Demand Heat Transfer Rate
+Water Heater Total Demand Heat Transfer Energy
+Boiler Heating Rate
+Boiler NaturalGas Rate
+Boiler Efficiency
+Zone Radiant HVAC Heating Rate
+Zone Radiant HVAC Cooling Rate
